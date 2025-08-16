@@ -36,7 +36,7 @@ This is a fourth gradedLab React Native application that implements a mobile log
 3. Invalid Credentials Error
    ![App Screenshot](./screenshot04.png)
 
-4. Successful Login
+4. Successful Login using (username = 'admin' and password = '1234')
    ![App Screenshot](./screenshot02.png)
 
 ## Features
