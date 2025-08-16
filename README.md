@@ -28,15 +28,20 @@ This is a fourth gradedLab React Native application that implements a mobile log
 ## Contents
 
 1. Login Screen UI
-    <img src="./screenshot01.PNG" alt="App Screenshot" width="200"/>
+
+<img src="./screenshot01.PNG" alt="App Screenshot" width="200"/>
+
 2. Empty Field Validation
-   <img src="./screenshot03.PNG" alt="App Screenshot" width="200"/>
+
+<img src="./screenshot03.PNG" alt="App Screenshot" width="200"/>
 
 3. Invalid Credentials Error
-   <img src="./screenshot04.PNG" alt="App Screenshot" width="200"/>
+
+<img src="./screenshot04.PNG" alt="App Screenshot" width="200"/>
 
 4. Successful Login using (username = 'admin' and password = '1234')
-   <img src="./screenshot02.PNG" alt="App Screenshot" width="200"/>
+
+<img src="./screenshot02.PNG" alt="App Screenshot" width="200"/>
 
 ## Features
 
