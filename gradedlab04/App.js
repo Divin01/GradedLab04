@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     textAlign: 'center',
     marginBottom: 30,
-    color: '#666',
+    color: '#667',
   },
   input: {
     height: 50,
